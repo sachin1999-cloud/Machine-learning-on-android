@@ -1,3 +1,4 @@
+#### This python file is to check whether tf lite model is working fine or not
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt 
